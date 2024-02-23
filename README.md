@@ -14,8 +14,9 @@
 
 ## Table Of Contents
 * [Lab-1: Creating an EC2 Instance in AWS and Installing Terraform](https://github.com/AmitKumaDas/Terraform-Essentials-Lab-Cheat-Sheet?tab=readme-ov-file#lab-1-creating-an-ec2-instance-in-aws-and-installing-terraform)
-* [Lab-2: AWS EC2 instance creation using Terraform Variables](https://github.com/janjiralakirankumar/TerraformEssentials?tab=readme-ov-file#lab-2-aws-ec2-instance-creation-using-terraform-variables)
-* [Lab-3 : Using Output Feature](https://github.com/janjiralakirankumar/TerraformEssentials?tab=readme-ov-file#lab-3--using-output-feature)
+* [Lab-2: AWS EC2 instance creation using Terraform Variables][(https://github.com/AmitKumaDas/Terraform-Essentials-Lab-Cheat-Sheet?tab=readme-ov-file#lab-2-aws-ec2-instance-creation-using-terraform-variables)
+* 
+]* [Lab-3 : Using Output Feature](https://github.com/janjiralakirankumar/TerraformEssentials?tab=readme-ov-file#lab-3--using-output-feature)
 * [Lab-4 : Remote State using Amazon Simple Storage Service](https://github.com/janjiralakirankumar/TerraformEssentials?tab=readme-ov-file#lab-4--remote-state-using-amazon-simple-storage-service)
 * [Lab-5: Launching VPC and EC2 Instance](https://github.com/janjiralakirankumar/TerraformEssentials?tab=readme-ov-file#lab-5-launching-vpc-and-ec2-instance)
 * [Lab-6: Launching Auto-Scaling services](https://github.com/janjiralakirankumar/TerraformEssentials?tab=readme-ov-file#lab-6-launching-auto-scaling-services)
